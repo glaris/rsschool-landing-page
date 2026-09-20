@@ -11,39 +11,103 @@
 </head>
 
 <body>
-    <header class="header">
-        <!-- <div class="logo">
+    <div class="wrapper">
+        <header class="header">
+            <!-- <div class="logo">
             <a href="index.html" class="logo__link">Evgeny Kreshchensky</a>
         </div> -->
-        <div class="logo">
-            <a href="index.html" class="logo__link"><img class="logo__img" src="img/logo.svg"
-                    alt="Logo Artist's Signature"><span class="logo__text">Evgeny Kreshchensky</span></a>
-        </div>
-        <div class="header__actions">
-            <nav class="nav">
-                <ul class="nav__list">
-                    <li class="nav__item"><a href="catalog.html" class="nav__link">Catalog</a></li>
-                    <li class="nav__item"><a href="#statement" class="nav__link">Statement</a></li>
-                    <li class="nav__item"><a href="#about" class="nav__link">About</a></li>
-                    <li class="nav__item"><a href="#contacts" class="nav__link">Contacts</a></li>
-                </ul>
-            </nav>
-            <button type="button" class="theme-toggle">
-                <span class="theme-toggle__text">Dark</span>
-            </button>
-            <button type="button" class="burger">
-                <span class="burger__line"></span>
-                <span class="burger__line"></span>
-                <span class="burger__line"></span>
-            </button>
-        </div>
-    </header>
-    <main class="main">
+            <div class="logo">
+                <a href="index.html" class="logo__link"><img class="logo__img" src="img/logo.svg"
+                        alt="Logo Artist's Signature"><span class="logo__text">Evgeny<br>Kreshchensky</span></a>
+            </div>
+            <div class="header__actions">
+                <nav class="nav">
+                    <ul class="nav__list">
+                        <li class="nav__item"><a href="catalog.html" class="nav__link">Catalog</a></li>
+                        <li class="nav__item"><a href="#statement" class="nav__link">Statement</a></li>
+                        <li class="nav__item"><a href="#about" class="nav__link">About</a></li>
+                        <li class="nav__item"><a href="#contacts" class="nav__link">Contacts</a></li>
+                    </ul>
+                </nav>
+                <button type="button" class="theme-toggle">
+                    <span class="theme-toggle__text">Dark</span>
+                </button>
+                <button type="button" class="burger">
+                    <span class="burger__line"></span>
+                    <span class="burger__line"></span>
+                    <span class="burger__line"></span>
+                </button>
+            </div>
+        </header>
+        <main class="main">
+            <section class="hero">
+                <div class="hero__container">
+                    <h1 class="hero__title">Evgeny Kreshchensky</h1>
+                    <h2 class="hero__subtitle">Graphic Art & Drawings</h2>
+                    <a href="catalog.html" class="hero__link">Catalog</a>
+                </div>
+            </section>
+            <section class="slider">
+                <div class="slider__container">
+                    <button type="button" class="slider__arrow slider__arrow--prev">Left</button>
 
-    </main>
-    <footer class="footer">
+                    <div class="slider__track">
+                        <div class="slider__slide">
+                            <span class="slider__placeholder">Work Image Placeholder</span>
+                        </div>
+                    </div>
 
-    </footer>
+                    <button type="button" class="slider__arrow slider__arrow--next">Right</button>
+                </div>
+            </section>
+            <section id="statement" class="statement">
+                <div class="statement__container">
+                    <h2 class="statement__title">Statement</h2>
+                    <p class="statement__text">
+                        Each ink drawing captures a singular moment where there is no room for error.
+                        A line left on paper becomes a definitive manifesto of graphic space.
+                    </p>
+                </div>
+            </section>
+            <section id="about" class="about">
+                <div class="about__container">
+                    <h2 class="about__title">About the Artist</h2>
+                    <div class="about__content">
+                        <p class="about__text">
+                            Evgeny Kreshchensky is a contemporary graphic artist and scenographer.
+                            His work explores the boundaries of academic drawing, merging strict theatrical
+                            geometry with the vivid expression of ink and pen.
+                        </p>
+                        <div class="about__image-wrapper">
+                            <span class="about__placeholder">Artist Photo Placeholder</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section id="contacts" class="contacts">
+                <div class="contacts__container">
+                    <h2 class="contacts__title">Contacts</h2>
+                    <p class="contacts__subtitle">Get in touch for collaborations or artwork inquiries</p>
+
+                    <form class="contacts__form" action="#" method="POST">
+                        <div class="contacts__field">
+                            <input type="text" class="contacts__input" placeholder="Your Name" required>
+                        </div>
+                        <div class="contacts__field">
+                            <input type="email" class="contacts__input" placeholder="Your Email" required>
+                        </div>
+                        <div class="contacts__field">
+                            <textarea class="contacts__textarea" placeholder="Your Message" required></textarea>
+                        </div>
+                        <button type="submit" class="contacts__btn">Send Message</button>
+                    </form>
+                </div>
+            </section>
+        </main>
+        <footer class="footer">
+
+        </footer>
+    </div>
 </body>
 
 </html>
