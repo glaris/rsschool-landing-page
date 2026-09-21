@@ -37,6 +37,7 @@ body {
     padding: 20px 40px;
 }
 
+
 .header__actions {
     display: flex;
     align-items: center;
@@ -200,6 +201,9 @@ body {
     justify-content: center;
     border: 1px dashed var(--accent-bronze);
     background-color: rgba(0, 0, 0, 0.02);
+    box-shadow: 15px 20px 10px #000000a0;
+    cursor: pointer;
+    outline: 6px solid rgb(60, 58, 58);
 }
 
 .slider__placeholder {
