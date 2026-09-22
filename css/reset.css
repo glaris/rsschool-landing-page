@@ -51,6 +51,10 @@ button {
     background-color: inherit;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 html,
 body {
     height: 100%;
