@@ -577,12 +577,15 @@ body {
     transition: box-shadow 0.3s ease;
 }
 
-.card:hover .card__image {
+.card__image:hover {
     box-shadow: 10px 15px 35px rgba(0, 0, 0, 0.28);
 }
 
-body.dark-theme .card:hover .card__image {
-    box-shadow: 10px 15px 20px #e9e0d153;
+body.dark-theme .card__image:hover {
+    box-shadow:
+        10px 15px 10px rgba(0, 0, 0, 0.6),
+        10px 15px 65px #e9e0d185;
+
 }
 
 .card__label {
