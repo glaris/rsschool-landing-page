@@ -132,11 +132,7 @@ body {
 }
 
 .burger {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    width: 30px;
-    height: 18px;
+    display: none;
 }
 
 .burger__line {
@@ -739,6 +735,14 @@ body.dark-theme .card__image:hover {
 @media (max-width: 860px) {
     .nav {
         display: none;
+    }
+
+    .burger {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 30px;
+        height: 18px;
     }
 
     .header__wrapper {
