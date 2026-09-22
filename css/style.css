@@ -19,6 +19,10 @@ body.dark-theme {
     --card-shadow: rgba(0, 0, 0, 0.6);
 }
 
+body.dark-theme .logo__img {
+    filter: invert(1);
+}
+
 
 body {
     font-family: 'Montserrat', sans-serif;
@@ -591,7 +595,25 @@ body {
     color: var(--main-text);
 }
 
+.catalog__more-btn {
+    display: block;
+    margin: 60px auto 0;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 15px 45px;
+    border: 1px solid var(--main-text);
+    color: var(--main-text);
+    background: transparent;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
 
+.catalog__more-btn:hover {
+    background-color: var(--main-text);
+    color: var(--main-bg);
+}
 
 /* ===== RESPONSIVE ===== */
 
