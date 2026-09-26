@@ -496,7 +496,6 @@ body {
 
 .catalog {
     padding: 80px 0px 40px;
-    /* background: var(--bg-paper) */
 }
 
 .catalog__container {
@@ -562,7 +561,6 @@ body {
 .card__image-wrapper {
     width: auto;
     max-width: 100%;
-    height: 66vh;
     max-height: 66vh;
     aspect-ratio: 17 / 24;
     box-sizing: border-box;
@@ -831,7 +829,6 @@ body.dark-theme .card__image:hover {
     }
 
     .card__image-wrapper {
-        height: 55vh;
         max-height: 55vh;
     }
 }
@@ -856,7 +853,6 @@ body.dark-theme .card__image:hover {
     }
 
     .card__image-wrapper {
-        height: 45vh;
         max-height: 45vh;
         padding: 16px 16px 0;
     }
@@ -883,7 +879,6 @@ body.dark-theme .card__image:hover {
     }
 
     .card__image-wrapper {
-        height: 55vh;
         max-height: 55vh;
         padding: 16px 16px 0;
     }
