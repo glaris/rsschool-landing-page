@@ -9,7 +9,6 @@
         "date": "2026",
         "dimensions": "40 x 30 cm",
         "medium": "Ink on paper",
-        "altText": "Ink drawing of Kreshchensky - The Cut",
         "relatedWorks": [
             "the-cut-painting"
         ],
@@ -21,31 +20,38 @@
             },
             {
                 "type": "fragment",
-                "src": ""
+                "src": "",
+                "alt": ""
             },
             {
                 "type": "back",
-                "src": ""
+                "src": "",
+                "alt": ""
             },
             {
                 "type": "edge",
-                "src": ""
+                "src": "",
+                "alt": ""
             },
             {
                 "type": "process",
-                "src": ""
+                "src": "",
+                "alt": ""
             },
             {
                 "type": "exhibition",
-                "src": ""
+                "src": "",
+                "alt": ""
             },
             {
                 "type": "press",
-                "src": ""
+                "src": "",
+                "alt": ""
             },
             {
                 "type": "custom",
-                "src": ""
+                "src": "",
+                "alt": ""
             }
         ],
         "conception": {
