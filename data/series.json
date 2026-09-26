@@ -1,0 +1,18 @@
+[
+    {
+        "id": "all",
+        "label": "All series"
+    },
+    {
+        "id": "thoughts",
+        "label": "Series: Thoughts"
+    },
+    {
+        "id": "madmans-circus",
+        "label": "Series: Madman's Circus"
+    },
+    {
+        "id": "in-progress",
+        "label": "New Series: In Progress"
+    }
+]
