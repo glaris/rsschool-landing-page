@@ -1116,10 +1116,10 @@
         }
     },
     {
-        "id": "hidden",
+        "id": "hideaway",
         "order": 1,
         "category": "drawings",
-        "title": "Hidden",
+        "title": "Hideaway",
         "series": "Thoughts",
         "seriesSlug": "thoughts",
         "date": "2025",
@@ -1131,8 +1131,8 @@
         "images": [
             {
                 "type": "main",
-                "src": "img/drawings/thoughts/hidden.webp",
-                "alt": "Original ink drawing titled 'Hidden' by contemporary fine artist Evgeny Kreshchensky."
+                "src": "img/drawings/thoughts/hideaway.webp",
+                "alt": "Original ink drawing titled 'Hideaway' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
                 "type": "fragment",
