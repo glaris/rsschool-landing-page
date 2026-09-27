@@ -20,6 +20,130 @@
             },
             {
                 "type": "fragment",
+                "src": "../img/drawings/head-garden/the-cut-fragment.webp",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "HEAD GARDEN series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "seach-red-flags",
+        "order": 2,
+        "category": "drawings",
+        "title": "Seach Red Flags",
+        "series": "Head Garden",
+        "seriesSlug": "in-progress",
+        "date": "2025",
+        "dimensions": "40 x 30 cm",
+        "medium": "Ink on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/head-garden/seach-red-flags.webp",
+                "alt": "Original ink drawing titled 'Seach Red Flags' by contemporary fine artist Evgeny Kreshchensky from the 'Head Garden' series."
+            },
+            {
+                "type": "fragment",
+                "src": "../img/drawings/head-garden/seach-red-flags-fragment.webp",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "HEAD GARDEN series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "self-consuming",
+        "order": 3,
+        "category": "drawings",
+        "title": "Self-consuming",
+        "series": "Head Garden",
+        "seriesSlug": "in-progress",
+        "date": "2025",
+        "dimensions": "40 x 30 cm",
+        "medium": "Ink on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/head-garden/self-consuming.webp",
+                "alt": "Original ink drawing titled 'Self-consuming' by contemporary fine artist Evgeny Kreshchensky from the 'Head Garden' series."
+            },
+            {
+                "type": "fragment",
                 "src": "",
                 "alt": ""
             },
@@ -55,8 +179,1312 @@
             }
         ],
         "conception": {
-            "artwork": "Full curator description text will be here later.",
-            "series": "Full curator description text will be here later."
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "HEAD GARDEN series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "cyberfreaks",
+        "order": 4,
+        "category": "drawings",
+        "title": "Cyberfreaks",
+        "series": "Cyberfreaks",
+        "seriesSlug": "in-progress",
+        "date": "2025",
+        "dimensions": "40 x 30 cm",
+        "medium": "Ink on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/cyberfreaks/cyberfreaks.webp",
+                "alt": "Original ink drawing titled 'Cyberfreaks' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "../img/drawings/cyberfreaks/cyberfreaks-fragment.webp",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "CYBERFREAKS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "lightning",
+        "order": 5,
+        "category": "drawings",
+        "title": "Harnessing Lightning",
+        "series": "Elemental Force",
+        "seriesSlug": "in-progress",
+        "date": "2025",
+        "dimensions": "40 x 30 cm",
+        "medium": "Ink on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/elemental-force/harnessing-lightning.webp",
+                "alt": "Original ink drawing titled 'Harnessing Lightning' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "HARNESSING LIGHTNING series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "double-trouble",
+        "order": 1,
+        "category": "drawings",
+        "title": "Double Trouble",
+        "series": "Madman's Circus",
+        "seriesSlug": "madmans-circus",
+        "date": "2026",
+        "dimensions": "40 x 30 cm",
+        "medium": "Ink and acrylic on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/madmans-circus/double-trouble.webp",
+                "alt": "Original ink drawing titled 'Double Trouble' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "MADMAN'S CIRCUS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "kiss-me",
+        "order": 2,
+        "category": "drawings",
+        "title": "Kiss Me",
+        "series": "Madman's Circus",
+        "seriesSlug": "madmans-circus",
+        "date": "2026",
+        "dimensions": "40 x 30 cm",
+        "medium": "Ink and acrylic on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/madmans-circus/kiss-me.webp",
+                "alt": "Original ink drawing titled 'Kiss Me' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "MADMAN'S CIRCUS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "head-count",
+        "order": 3,
+        "category": "drawings",
+        "title": "Head Count",
+        "series": "Madman's Circus",
+        "seriesSlug": "madmans-circus",
+        "date": "2026",
+        "dimensions": "40 x 30 cm",
+        "medium": "Ink and acrylic on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/madmans-circus/head-count.webp",
+                "alt": "Original ink drawing titled 'Head Count' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "MADMAN'S CIRCUS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "last-trick",
+        "order": 4,
+        "category": "drawings",
+        "title": "Last Trick",
+        "series": "Madman's Circus",
+        "seriesSlug": "madmans-circus",
+        "date": "2026",
+        "dimensions": "40 x 30 cm",
+        "medium": "Ink and acrylic on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/madmans-circus/last-trick.webp",
+                "alt": "Original ink drawing titled 'Last Trick' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "MADMAN'S CIRCUS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "solo-for-two",
+        "order": 5,
+        "category": "drawings",
+        "title": "Solo for Two",
+        "series": "Madman's Circus",
+        "seriesSlug": "madmans-circus",
+        "date": "2026",
+        "dimensions": "40 x 30 cm",
+        "medium": "Ink and acrylic on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/madmans-circus/solo-for-two.webp",
+                "alt": "Original ink drawing titled 'Solo for Two' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "MADMAN'S CIRCUS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "triple-bark",
+        "order": 6,
+        "category": "drawings",
+        "title": "Triple Bark",
+        "series": "Madman's Circus",
+        "seriesSlug": "madmans-circus",
+        "date": "2026",
+        "dimensions": "40 x 30 cm",
+        "medium": "Ink and acrylic on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/madmans-circus/triple-bark.webp",
+                "alt": "Original ink drawing titled 'Triple Bark' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "MADMAN'S CIRCUS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "afterlife",
+        "order": 1,
+        "category": "drawings",
+        "title": "Afterlife",
+        "series": "Thoughts",
+        "seriesSlug": "thoughts",
+        "date": "2025",
+        "dimensions": "21 x 15 cm",
+        "medium": "Ink on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/thoughts/afterlife.webp",
+                "alt": "Original ink drawing titled 'Afterlife' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "THOUGHTS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "awakening",
+        "order": 1,
+        "category": "drawings",
+        "title": "Awakening",
+        "series": "Thoughts",
+        "seriesSlug": "thoughts",
+        "date": "2025",
+        "dimensions": "21 x 15 cm",
+        "medium": "Ink on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/thoughts/awakening.webp",
+                "alt": "Original ink drawing titled 'Awakening' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "THOUGHTS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "bounty",
+        "order": 1,
+        "category": "drawings",
+        "title": "Bounty",
+        "series": "Thoughts",
+        "seriesSlug": "thoughts",
+        "date": "2025",
+        "dimensions": "21 x 15 cm",
+        "medium": "Ink on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/thoughts/bounty.webp",
+                "alt": "Original ink drawing titled 'Bounty' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "THOUGHTS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "crossroads",
+        "order": 1,
+        "category": "drawings",
+        "title": "Crossroads",
+        "series": "Thoughts",
+        "seriesSlug": "thoughts",
+        "date": "2025",
+        "dimensions": "21 x 15 cm",
+        "medium": "Ink on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/thoughts/crossroads.webp",
+                "alt": "Original ink drawing titled 'Crossroads' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "THOUGHTS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "deep",
+        "order": 1,
+        "category": "drawings",
+        "title": "Deep",
+        "series": "Thoughts",
+        "seriesSlug": "thoughts",
+        "date": "2025",
+        "dimensions": "21 x 15 cm",
+        "medium": "Ink on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/thoughts/deep.webp",
+                "alt": "Original ink drawing titled 'Deep' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "THOUGHTS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "hidden",
+        "order": 1,
+        "category": "drawings",
+        "title": "Hidden",
+        "series": "Thoughts",
+        "seriesSlug": "thoughts",
+        "date": "2025",
+        "dimensions": "21 x 15 cm",
+        "medium": "Ink on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/thoughts/hidden.webp",
+                "alt": "Original ink drawing titled 'Hidden' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "THOUGHTS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "hike",
+        "order": 1,
+        "category": "drawings",
+        "title": "Hike",
+        "series": "Thoughts",
+        "seriesSlug": "thoughts",
+        "date": "2025",
+        "dimensions": "21 x 15 cm",
+        "medium": "Ink on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/thoughts/hike.webp",
+                "alt": "Original ink drawing titled 'Hike' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "THOUGHTS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "hidden",
+        "order": 1,
+        "category": "drawings",
+        "title": "Hidden",
+        "series": "Thoughts",
+        "seriesSlug": "thoughts",
+        "date": "2025",
+        "dimensions": "21 x 15 cm",
+        "medium": "Ink on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/thoughts/hidden.webp",
+                "alt": "Original ink drawing titled 'Hidden' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "THOUGHTS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "memory",
+        "order": 1,
+        "category": "drawings",
+        "title": "Memory",
+        "series": "Thoughts",
+        "seriesSlug": "thoughts",
+        "date": "2025",
+        "dimensions": "21 x 15 cm",
+        "medium": "Ink on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/thoughts/memory.webp",
+                "alt": "Original ink drawing titled 'Memory' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "THOUGHTS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "ruined",
+        "order": 1,
+        "category": "drawings",
+        "title": "Ruined",
+        "series": "Thoughts",
+        "seriesSlug": "thoughts",
+        "date": "2025",
+        "dimensions": "21 x 15 cm",
+        "medium": "Ink on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/thoughts/ruined.webp",
+                "alt": "Original ink drawing titled 'Ruined' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "THOUGHTS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "saved",
+        "order": 1,
+        "category": "drawings",
+        "title": "Saved",
+        "series": "Thoughts",
+        "seriesSlug": "thoughts",
+        "date": "2025",
+        "dimensions": "21 x 15 cm",
+        "medium": "Ink on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/thoughts/saved.webp",
+                "alt": "Original ink drawing titled 'Saved' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "THOUGHTS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "scouts",
+        "order": 1,
+        "category": "drawings",
+        "title": "Scouts",
+        "series": "Thoughts",
+        "seriesSlug": "thoughts",
+        "date": "2025",
+        "dimensions": "21 x 15 cm",
+        "medium": "Ink on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/thoughts/scouts.webp",
+                "alt": "Original ink drawing titled 'Scouts' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "THOUGHTS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "windy",
+        "order": 1,
+        "category": "drawings",
+        "title": "Windy",
+        "series": "Thoughts",
+        "seriesSlug": "thoughts",
+        "date": "2025",
+        "dimensions": "21 x 15 cm",
+        "medium": "Ink on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "../img/drawings/thoughts/windy.webp",
+                "alt": "Original ink drawing titled 'Windy' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "THOUGHTS series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
         }
     }
 ]

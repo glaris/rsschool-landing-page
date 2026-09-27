@@ -5,14 +5,17 @@
     },
     {
         "id": "thoughts",
-        "label": "Series: Thoughts"
+        "label": "Series: Thoughts",
+        "order": 3
     },
     {
         "id": "madmans-circus",
-        "label": "Series: Madman's Circus"
+        "label": "Series: Madman's Circus",
+        "order": 2
     },
     {
         "id": "in-progress",
-        "label": "New Series: In Progress"
+        "label": "New Series: In Progress",
+        "order": 1
     }
 ]
