@@ -537,10 +537,16 @@ body {
 }
 
 .filter__btn:hover {
-    background-color: var(--main-text);
-    color: var(--main-bg);
+    border-color: var(--accent-bronze);
+    color: var(--accent-bronze);
+
 }
 
+.filter__btn--active {
+    background-color: var(--main-text);
+    color: var(--main-bg);
+    font-weight: 900;
+}
 
 /* === cards === */
 
