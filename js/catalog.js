@@ -29,15 +29,33 @@ function renderCard(work) {
     `;
 }
 
-function renderGrid(artworks) {
+function renderGrid(artworks, series) {
     const grid = document.querySelector('.catalog__grid');
-    const sorted = [...artworks].sort((a, b) => a.order - b.order);
+    const seriesOrderMap = new Map(series.map(s => [s.id, s.order]));
+
+    const sorted = [...artworks].sort((a, b) => {
+        const seriesOrderA = seriesOrderMap.get(a.seriesSlug);
+        const seriesOrderB = seriesOrderMap.get(b.seriesSlug);
+        if (seriesOrderA !== seriesOrderB) {
+            return seriesOrderA - seriesOrderB;
+        }
+        return a.order - b.order;
+    });
+
     grid.innerHTML = sorted.map(renderCard).join('');
 }
 
 function renderFilterButtons(series) {
     const filterContainer = document.querySelector('.catalog__filter');
-    filterContainer.innerHTML = series.map(oneSeries => `
+
+    const allButton = series.find(s => s.id === 'all');
+    const sortedSeries = series
+        .filter(s => s.id !== 'all')
+        .sort((a, b) => a.order - b.order);
+
+    const orderedSeries = [allButton, ...sortedSeries];
+
+    filterContainer.innerHTML = orderedSeries.map(oneSeries => `
         <button type="button" class="filter__btn" data-series-id="${oneSeries.id}">
             ${oneSeries.label}
         </button>
@@ -49,9 +67,41 @@ function setActiveFilter(seriesId) {
         btn.classList.toggle('filter__btn--active', btn.dataset.seriesId === seriesId);
     });
 
-    document.querySelectorAll('.catalog__grid .card').forEach(card => {
-        const matches = seriesId === 'all' || card.dataset.seriesId === seriesId;
-        card.style.display = matches ? '' : 'none';
+    currentVisibleCount = CARDS_PER_PAGE;
+    updateCardsVisibility(seriesId);
+}
+
+const CARDS_PER_PAGE = 6;
+let currentVisibleCount = CARDS_PER_PAGE;
+
+function updateCardsVisibility(seriesId) {
+    const allCards = Array.from(document.querySelectorAll('.catalog__grid .card'));
+    const matchingCards = allCards.filter(card =>
+        seriesId === 'all' || card.dataset.seriesId === seriesId
+    );
+
+    matchingCards.forEach((card, index) => {
+        card.style.display = index < currentVisibleCount ? '' : 'none';
+    });
+
+    allCards.forEach(card => {
+        if (!matchingCards.includes(card)) {
+            card.style.display = 'none';
+        }
+    });
+
+    const moreBtn = document.querySelector('.catalog__more-btn');
+    const hasMore = matchingCards.length > currentVisibleCount;
+    moreBtn.style.display = hasMore ? '' : 'none';
+}
+
+function initShowMoreButton() {
+    const moreBtn = document.querySelector('.catalog__more-btn');
+    moreBtn.addEventListener('click', () => {
+        const activeBtn = document.querySelector('.filter__btn--active');
+        const seriesId = activeBtn ? activeBtn.dataset.seriesId : 'all';
+        currentVisibleCount += CARDS_PER_PAGE;
+        updateCardsVisibility(seriesId);
     });
 }
 
@@ -67,9 +117,10 @@ function initFilterEvents() {
 async function initCatalog() {
     const artworks = await loadArtworks();
     const series = await loadSeries();
-    renderGrid(artworks);
+    renderGrid(artworks, series);
     renderFilterButtons(series);
     initFilterEvents();
+    initShowMoreButton();
     setActiveFilter('all');
 }
 
