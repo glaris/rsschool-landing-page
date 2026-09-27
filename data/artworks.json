@@ -15,7 +15,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/head-garden/the-cut.webp",
+                "src": "img/drawings/head-garden/the-cut.webp",
                 "alt": "Original ink drawing titled 'The Cut' by contemporary fine artist Evgeny Kreshchensky from the 'Head Garden' series."
             },
             {
@@ -62,10 +62,10 @@
         }
     },
     {
-        "id": "seach-red-flags",
+        "id": "search-red-flags",
         "order": 2,
         "category": "drawings",
-        "title": "Seach Red Flags",
+        "title": "Search Red Flags",
         "series": "Head Garden",
         "seriesSlug": "in-progress",
         "date": "2025",
@@ -77,12 +77,12 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/head-garden/seach-red-flags.webp",
-                "alt": "Original ink drawing titled 'Seach Red Flags' by contemporary fine artist Evgeny Kreshchensky from the 'Head Garden' series."
+                "src": "img/drawings/head-garden/search-red-flags.webp",
+                "alt": "Original ink drawing titled 'Search Red Flags' by contemporary fine artist Evgeny Kreshchensky from the 'Head Garden' series."
             },
             {
                 "type": "fragment",
-                "src": "../img/drawings/head-garden/seach-red-flags-fragment.webp",
+                "src": "../img/drawings/head-garden/search-red-flags-fragment.webp",
                 "alt": ""
             },
             {
@@ -139,7 +139,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/head-garden/self-consuming.webp",
+                "src": "img/drawings/head-garden/self-consuming.webp",
                 "alt": "Original ink drawing titled 'Self-consuming' by contemporary fine artist Evgeny Kreshchensky from the 'Head Garden' series."
             },
             {
@@ -201,7 +201,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/cyberfreaks/cyberfreaks.webp",
+                "src": "img/drawings/cyberfreaks/cyberfreaks.webp",
                 "alt": "Original ink drawing titled 'Cyberfreaks' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -263,7 +263,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/elemental-force/harnessing-lightning.webp",
+                "src": "img/drawings/elemental-force/harnessing-lightning.webp",
                 "alt": "Original ink drawing titled 'Harnessing Lightning' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -325,7 +325,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/madmans-circus/double-trouble.webp",
+                "src": "img/drawings/madmans-circus/double-trouble.webp",
                 "alt": "Original ink drawing titled 'Double Trouble' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -387,7 +387,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/madmans-circus/kiss-me.webp",
+                "src": "img/drawings/madmans-circus/kiss-me.webp",
                 "alt": "Original ink drawing titled 'Kiss Me' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -449,7 +449,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/madmans-circus/head-count.webp",
+                "src": "img/drawings/madmans-circus/head-count.webp",
                 "alt": "Original ink drawing titled 'Head Count' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -511,7 +511,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/madmans-circus/last-trick.webp",
+                "src": "img/drawings/madmans-circus/last-trick.webp",
                 "alt": "Original ink drawing titled 'Last Trick' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -573,7 +573,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/madmans-circus/solo-for-two.webp",
+                "src": "img/drawings/madmans-circus/solo-for-two.webp",
                 "alt": "Original ink drawing titled 'Solo for Two' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -635,7 +635,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/madmans-circus/triple-bark.webp",
+                "src": "img/drawings/madmans-circus/triple-bark.webp",
                 "alt": "Original ink drawing titled 'Triple Bark' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -697,7 +697,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/thoughts/afterlife.webp",
+                "src": "img/drawings/thoughts/afterlife.webp",
                 "alt": "Original ink drawing titled 'Afterlife' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -759,7 +759,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/thoughts/awakening.webp",
+                "src": "img/drawings/thoughts/awakening.webp",
                 "alt": "Original ink drawing titled 'Awakening' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -821,7 +821,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/thoughts/bounty.webp",
+                "src": "img/drawings/thoughts/bounty.webp",
                 "alt": "Original ink drawing titled 'Bounty' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -883,7 +883,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/thoughts/crossroads.webp",
+                "src": "img/drawings/thoughts/crossroads.webp",
                 "alt": "Original ink drawing titled 'Crossroads' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -945,7 +945,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/thoughts/deep.webp",
+                "src": "img/drawings/thoughts/deep.webp",
                 "alt": "Original ink drawing titled 'Deep' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -1007,7 +1007,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/thoughts/hidden.webp",
+                "src": "img/drawings/thoughts/hidden.webp",
                 "alt": "Original ink drawing titled 'Hidden' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -1069,7 +1069,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/thoughts/hike.webp",
+                "src": "img/drawings/thoughts/hike.webp",
                 "alt": "Original ink drawing titled 'Hike' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -1131,7 +1131,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/thoughts/hidden.webp",
+                "src": "img/drawings/thoughts/hidden.webp",
                 "alt": "Original ink drawing titled 'Hidden' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -1193,7 +1193,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/thoughts/memory.webp",
+                "src": "img/drawings/thoughts/memory.webp",
                 "alt": "Original ink drawing titled 'Memory' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -1255,7 +1255,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/thoughts/ruined.webp",
+                "src": "img/drawings/thoughts/ruined.webp",
                 "alt": "Original ink drawing titled 'Ruined' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -1317,7 +1317,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/thoughts/saved.webp",
+                "src": "img/drawings/thoughts/saved.webp",
                 "alt": "Original ink drawing titled 'Saved' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -1379,7 +1379,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/thoughts/scouts.webp",
+                "src": "img/drawings/thoughts/scouts.webp",
                 "alt": "Original ink drawing titled 'Scouts' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
@@ -1441,7 +1441,7 @@
         "images": [
             {
                 "type": "main",
-                "src": "../img/drawings/thoughts/windy.webp",
+                "src": "img/drawings/thoughts/windy.webp",
                 "alt": "Original ink drawing titled 'Windy' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
