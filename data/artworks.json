@@ -20,7 +20,7 @@
             },
             {
                 "type": "fragment",
-                "src": "../img/drawings/head-garden/the-cut-fragment.webp",
+                "src": "img/drawings/head-garden/the-cut.webp",
                 "alt": ""
             },
             {
@@ -66,7 +66,7 @@
         "order": 2,
         "category": "drawings",
         "title": "Search Red Flags",
-        "series": "Head Garden",
+        "series": "Untitled",
         "seriesSlug": "in-progress",
         "date": "2025",
         "dimensions": "40 x 30 cm",
@@ -78,11 +78,11 @@
             {
                 "type": "main",
                 "src": "img/drawings/head-garden/search-red-flags.webp",
-                "alt": "Original ink drawing titled 'Search Red Flags' by contemporary fine artist Evgeny Kreshchensky from the 'Head Garden' series."
+                "alt": "Original ink drawing titled 'Search Red Flags' by contemporary fine artist Evgeny Kreshchensky."
             },
             {
                 "type": "fragment",
-                "src": "../img/drawings/head-garden/search-red-flags-fragment.webp",
+                "src": "img/drawings/head-garden/search-red-flags-fragment.webp",
                 "alt": ""
             },
             {
@@ -125,7 +125,7 @@
     },
     {
         "id": "self-consuming",
-        "order": 3,
+        "order": 5,
         "category": "drawings",
         "title": "Self-consuming",
         "series": "Head Garden",
@@ -187,7 +187,7 @@
     },
     {
         "id": "cyberfreaks",
-        "order": 4,
+        "order": 3,
         "category": "drawings",
         "title": "Cyberfreaks",
         "series": "Cyberfreaks",
@@ -206,7 +206,7 @@
             },
             {
                 "type": "fragment",
-                "src": "../img/drawings/cyberfreaks/cyberfreaks-fragment.webp",
+                "src": "img/drawings/cyberfreaks/cyberfreaks-fragment.webp",
                 "alt": ""
             },
             {
@@ -249,7 +249,7 @@
     },
     {
         "id": "lightning",
-        "order": 5,
+        "order": 4,
         "category": "drawings",
         "title": "Harnessing Lightning",
         "series": "Elemental Force",
@@ -306,6 +306,68 @@
             "artwork": "Full artwork conception text will be here later.",
             "artworkIsPlaceholder": true,
             "series": "HARNESSING LIGHTNING series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "empusa",
+        "order": 6,
+        "category": "drawings",
+        "title": "Empusa",
+        "series": "Modern Mythology",
+        "seriesSlug": "in-progress",
+        "date": "2025",
+        "dimensions": "40 x 30 cm",
+        "medium": "Ink on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "img/drawings/modern-mythology/empusa.webp",
+                "alt": "Original ink drawing titled 'Empusa' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "conception": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "MODERN MYTHOLOGY series: Full conception text about series will be here later.",
             "seriesIsPlaceholder": true
         }
     },
