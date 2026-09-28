@@ -54,6 +54,27 @@
                 "alt": ""
             }
         ],
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        40,
+                        30
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        58,
+                        48
+                    ],
+                    "note": "black wooden frame with white matting"
+                }
+            ]
+        },
         "conception": {
             "artwork": "Full artwork conception text will be here later.",
             "artworkIsPlaceholder": true,
