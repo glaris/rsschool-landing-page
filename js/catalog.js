@@ -148,11 +148,11 @@ function openModal(work) {
 
                 ${frameButtonsHtml}
 
-                <div class="modal__option-group" data-option="conceptionFocus">
+                <div class="modal__option-group" data-option="aboutFocus">
                     <button type="button" class="modal__option-btn modal__option-btn--active" data-value="artwork">About Artwork</button>
                     <button type="button" class="modal__option-btn" data-value="series">About Series</button>
                 </div>
-                <p class="modal__result-text" data-result="conceptionFocus">${work.conception.artwork}</p>
+                <p class="modal__result-text" data-result="aboutFocus">${work.about.artwork}</p>
             </div>
         </div>
     `;
@@ -170,8 +170,8 @@ function openModal(work) {
             const value = btn.dataset.value;
             const resultEl = content.querySelector(`[data-result="${optionType}"]`);
 
-            if (optionType === 'conceptionFocus') {
-                resultEl.textContent = work.conception[value];
+            if (optionType === 'aboutFocus') {
+                resultEl.textContent = work.about[value];
             }
             if (optionType === 'frame') {
                 const chosen = work.options.frame.find(f => f.value === value);
