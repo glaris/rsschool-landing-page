@@ -310,15 +310,21 @@ body {
     color: var(--main-bg);
 }
 
+.slider__window {
+    overflow: hidden;
+}
+
 .slider__track {
     flex-grow: 1;
     display: flex;
     justify-content: center;
+    transition: transform 0.5s ease;
+    justify-content: flex-start;
 }
 
 .slider__slide {
     width: 100%;
-    max-width: 800px;
+    min-width: 100%;
     height: 450px;
     display: flex;
     align-items: center;
@@ -764,7 +770,7 @@ body.dark-theme .card__image:hover {
         padding: 0 10px;
     }
 
-    .slider__track {
+    .slider__window {
         width: 100%;
         order: -1;
     }
