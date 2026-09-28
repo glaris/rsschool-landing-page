@@ -144,7 +144,7 @@ function openModal(work) {
             </div>
             <div class="modal__info">
                 <h2 class="modal__title">${work.title}, ${work.date}</h2>
-                <p class="modal__meta">From "${work.series}" series · ${work.dimensions} · ${work.medium}</p>
+                <p class="modal__meta">Series: ${work.series} · ${work.dimensions} · ${work.medium}</p>
 
                 ${frameButtonsHtml}
 
