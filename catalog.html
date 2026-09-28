@@ -10,6 +10,7 @@
     <link rel="icon" href="https://fav.farm/%F0%9F%96%8B">
     <script src="js/theme.js" defer></script>
     <script src="js/catalog.js" defer></script>
+    <script src="js/menu.js" defer></script>
 </head>
 
 <body>
@@ -29,10 +30,23 @@
                             <li class="nav__item"><a href="index.html#contacts" class="nav__link">Contacts</a></li>
                         </ul>
                     </nav>
+                    <nav class="mobile-menu" id="mobileMenu">
+                        <ul class="mobile-menu__list">
+                            <li class="mobile-menu__item"><a href="index.html" class="mobile-menu__link">Home</a></li>
+                            <li class="mobile-menu__item"><a href="index.html#statement"
+                                    class="mobile-menu__link">Statement</a></li>
+                            <li class="mobile-menu__item"><a href="index.html#about" class="mobile-menu__link">About</a>
+                            </li>
+                            <li class="mobile-menu__item"><a href="index.html#contacts"
+                                    class="mobile-menu__link">Contacts</a></li>
+                            <li class="mobile-menu__item"><a href="catalog.html" class="mobile-menu__link">Catalog</a>
+                            </li>
+                        </ul>
+                    </nav>
                     <button type="button" class="theme-toggle">
                         <span class="theme-toggle__text">Dark</span>
                     </button>
-                    <button type="button" class="burger">
+                    <button type="button" class="burger" id="burgerBtn" aria-label="Menu" aria-expanded="false">
                         <span class="burger__line"></span>
                         <span class="burger__line"></span>
                         <span class="burger__line"></span>
