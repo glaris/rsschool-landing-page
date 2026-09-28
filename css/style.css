@@ -953,6 +953,8 @@ body.dark-theme .card__image:hover {
 
 .modal__image {
     width: 100%;
+    max-height: 100%;
+    object-fit: contain;
     display: block;
 }
 
@@ -1001,8 +1003,23 @@ body.dark-theme .card__image:hover {
     min-height: 3.2em;
 }
 
+@media (max-width: 1024px) {
+    .modal__window {
+        padding: 24px;
+    }
 
-@media (max-width: 450px) {
+    .modal__body {
+        gap: 20px;
+    }
+
+    .modal__image-wrapper {
+        max-height: 40vh;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 741px) {
     .modal__option-btn {
         padding: 6px 10px;
         font-size: 13px;
@@ -1010,11 +1027,50 @@ body.dark-theme .card__image:hover {
 
     .modal__title {
         font-size: 18px;
+        margin-bottom: 5px;
+    }
+
+    .modal__meta,
+    .modal__option-group,
+    .modal__result-text {
+        font-size: 13px;
+        margin-bottom: 15px;
+    }
+
+    .modal__result-text[data-result="frame"] {
+        min-height: 2.2em;
+    }
+}
+
+@media (max-width: 545px) {
+    .modal__option-btn {
+        padding: 5px 10px;
+        font-size: 13px;
+    }
+
+    .modal__title {
+        font-size: 17px;
     }
 
     .modal__meta,
     .modal__result-text {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 425px) {
+    .modal__option-btn {
+        padding: 5px 10px;
         font-size: 13px;
+    }
+
+    .modal__title {
+        font-size: 16px;
+    }
+
+    .modal__meta,
+    .modal__result-text {
+        font-size: 11px;
     }
 }
 
