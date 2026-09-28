@@ -8,6 +8,27 @@
         "seriesSlug": "in-progress",
         "date": "2026",
         "dimensions": "40 x 30 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        40,
+                        30
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        58,
+                        48
+                    ],
+                    "note": "black wooden frame with off-white mat"
+                }
+            ]
+        },
         "medium": "Ink on paper",
         "relatedWorks": [
             "the-cut-painting"
@@ -54,6 +75,22 @@
                 "alt": ""
             }
         ],
+        "about": {
+            "artwork": "Full artwork conception text will be here later.",
+            "artworkIsPlaceholder": true,
+            "series": "HEAD GARDEN series: Full conception text about series will be here later.",
+            "seriesIsPlaceholder": true
+        }
+    },
+    {
+        "id": "search-red-flags",
+        "order": 2,
+        "category": "drawings",
+        "title": "Search Red Flags",
+        "series": "Untitled",
+        "seriesSlug": "in-progress",
+        "date": "2025",
+        "dimensions": "40 x 30 cm",
         "options": {
             "frame": [
                 {
@@ -71,26 +108,10 @@
                         58,
                         48
                     ],
-                    "note": "black wooden frame with white matting"
+                    "note": "black wooden frame with off-white mat"
                 }
             ]
         },
-        "about": {
-            "artwork": "Full artwork conception text will be here later.",
-            "artworkIsPlaceholder": true,
-            "series": "HEAD GARDEN series: Full conception text about series will be here later.",
-            "seriesIsPlaceholder": true
-        }
-    },
-    {
-        "id": "search-red-flags",
-        "order": 2,
-        "category": "drawings",
-        "title": "Search Red Flags",
-        "series": "Untitled",
-        "seriesSlug": "in-progress",
-        "date": "2025",
-        "dimensions": "40 x 30 cm",
         "medium": "Ink on paper",
         "relatedWorks": [
             ""
@@ -153,6 +174,27 @@
         "seriesSlug": "in-progress",
         "date": "2025",
         "dimensions": "40 x 30 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        40,
+                        30
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        58,
+                        48
+                    ],
+                    "note": "black wooden frame with off-white mat"
+                }
+            ]
+        },
         "medium": "Ink on paper",
         "relatedWorks": [
             ""
@@ -215,6 +257,27 @@
         "seriesSlug": "in-progress",
         "date": "2025",
         "dimensions": "40 x 30 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        40,
+                        30
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        58,
+                        48
+                    ],
+                    "note": "black wooden frame with off-white mat"
+                }
+            ]
+        },
         "medium": "Ink on paper",
         "relatedWorks": [
             ""
@@ -277,6 +340,27 @@
         "seriesSlug": "in-progress",
         "date": "2025",
         "dimensions": "40 x 30 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        40,
+                        30
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        58,
+                        48
+                    ],
+                    "note": "black wooden frame with off-white mat"
+                }
+            ]
+        },
         "medium": "Ink on paper",
         "relatedWorks": [
             ""
@@ -339,6 +423,27 @@
         "seriesSlug": "in-progress",
         "date": "2025",
         "dimensions": "40 x 30 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        40,
+                        30
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        58,
+                        48
+                    ],
+                    "note": "black wooden frame with off-white mat"
+                }
+            ]
+        },
         "medium": "Ink on paper",
         "relatedWorks": [
             ""
@@ -401,6 +506,27 @@
         "seriesSlug": "madmans-circus",
         "date": "2026",
         "dimensions": "40 x 30 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        40,
+                        30
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        58,
+                        48
+                    ],
+                    "note": "black wooden frame with off-white mat"
+                }
+            ]
+        },
         "medium": "Ink and acrylic on paper",
         "relatedWorks": [
             ""
@@ -463,6 +589,27 @@
         "seriesSlug": "madmans-circus",
         "date": "2026",
         "dimensions": "40 x 30 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        40,
+                        30
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        58,
+                        48
+                    ],
+                    "note": "black wooden frame with off-white mat"
+                }
+            ]
+        },
         "medium": "Ink and acrylic on paper",
         "relatedWorks": [
             ""
@@ -525,6 +672,27 @@
         "seriesSlug": "madmans-circus",
         "date": "2026",
         "dimensions": "40 x 30 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        40,
+                        30
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        58,
+                        48
+                    ],
+                    "note": "black wooden frame with off-white mat"
+                }
+            ]
+        },
         "medium": "Ink and acrylic on paper",
         "relatedWorks": [
             ""
@@ -587,6 +755,27 @@
         "seriesSlug": "madmans-circus",
         "date": "2026",
         "dimensions": "40 x 30 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        40,
+                        30
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        58,
+                        48
+                    ],
+                    "note": "black wooden frame with off-white mat"
+                }
+            ]
+        },
         "medium": "Ink and acrylic on paper",
         "relatedWorks": [
             ""
@@ -649,6 +838,27 @@
         "seriesSlug": "madmans-circus",
         "date": "2026",
         "dimensions": "40 x 30 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        40,
+                        30
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        58,
+                        48
+                    ],
+                    "note": "black wooden frame with off-white mat"
+                }
+            ]
+        },
         "medium": "Ink and acrylic on paper",
         "relatedWorks": [
             ""
@@ -711,6 +921,27 @@
         "seriesSlug": "madmans-circus",
         "date": "2026",
         "dimensions": "40 x 30 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        40,
+                        30
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        58,
+                        48
+                    ],
+                    "note": "black wooden frame with off-white mat"
+                }
+            ]
+        },
         "medium": "Ink and acrylic on paper",
         "relatedWorks": [
             ""
@@ -773,6 +1004,27 @@
         "seriesSlug": "thoughts",
         "date": "2025",
         "dimensions": "21 x 15 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        21,
+                        15
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        22,
+                        16
+                    ],
+                    "note": "black plastic frame with acrylic front"
+                }
+            ]
+        },
         "medium": "Ink on paper",
         "relatedWorks": [
             ""
@@ -835,6 +1087,27 @@
         "seriesSlug": "thoughts",
         "date": "2025",
         "dimensions": "21 x 15 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        21,
+                        15
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        22,
+                        16
+                    ],
+                    "note": "black plastic frame with acrylic front"
+                }
+            ]
+        },
         "medium": "Ink on paper",
         "relatedWorks": [
             ""
@@ -897,6 +1170,27 @@
         "seriesSlug": "thoughts",
         "date": "2025",
         "dimensions": "21 x 15 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        21,
+                        15
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        22,
+                        16
+                    ],
+                    "note": "black plastic frame with acrylic front"
+                }
+            ]
+        },
         "medium": "Ink on paper",
         "relatedWorks": [
             ""
@@ -959,6 +1253,27 @@
         "seriesSlug": "thoughts",
         "date": "2025",
         "dimensions": "21 x 15 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        21,
+                        15
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        22,
+                        16
+                    ],
+                    "note": "black plastic frame with acrylic front"
+                }
+            ]
+        },
         "medium": "Ink on paper",
         "relatedWorks": [
             ""
@@ -1021,6 +1336,27 @@
         "seriesSlug": "thoughts",
         "date": "2025",
         "dimensions": "21 x 15 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        21,
+                        15
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        22,
+                        16
+                    ],
+                    "note": "black plastic frame with acrylic front"
+                }
+            ]
+        },
         "medium": "Ink on paper",
         "relatedWorks": [
             ""
@@ -1083,6 +1419,27 @@
         "seriesSlug": "thoughts",
         "date": "2025",
         "dimensions": "21 x 15 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        21,
+                        15
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        22,
+                        16
+                    ],
+                    "note": "black plastic frame with acrylic front"
+                }
+            ]
+        },
         "medium": "Ink on paper",
         "relatedWorks": [
             ""
@@ -1145,6 +1502,27 @@
         "seriesSlug": "thoughts",
         "date": "2025",
         "dimensions": "21 x 15 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        21,
+                        15
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        22,
+                        16
+                    ],
+                    "note": "black plastic frame with acrylic front"
+                }
+            ]
+        },
         "medium": "Ink on paper",
         "relatedWorks": [
             ""
@@ -1207,6 +1585,27 @@
         "seriesSlug": "thoughts",
         "date": "2025",
         "dimensions": "21 x 15 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        21,
+                        15
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        22,
+                        16
+                    ],
+                    "note": "black plastic frame with acrylic front"
+                }
+            ]
+        },
         "medium": "Ink on paper",
         "relatedWorks": [
             ""
@@ -1269,6 +1668,27 @@
         "seriesSlug": "thoughts",
         "date": "2025",
         "dimensions": "21 x 15 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        21,
+                        15
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        22,
+                        16
+                    ],
+                    "note": "black plastic frame with acrylic front"
+                }
+            ]
+        },
         "medium": "Ink on paper",
         "relatedWorks": [
             ""
@@ -1331,6 +1751,27 @@
         "seriesSlug": "thoughts",
         "date": "2025",
         "dimensions": "21 x 15 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        21,
+                        15
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        22,
+                        16
+                    ],
+                    "note": "black plastic frame with acrylic front"
+                }
+            ]
+        },
         "medium": "Ink on paper",
         "relatedWorks": [
             ""
@@ -1393,6 +1834,27 @@
         "seriesSlug": "thoughts",
         "date": "2025",
         "dimensions": "21 x 15 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        21,
+                        15
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        22,
+                        16
+                    ],
+                    "note": "black plastic frame with acrylic front"
+                }
+            ]
+        },
         "medium": "Ink on paper",
         "relatedWorks": [
             ""
@@ -1455,6 +1917,27 @@
         "seriesSlug": "thoughts",
         "date": "2025",
         "dimensions": "21 x 15 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        21,
+                        15
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        22,
+                        16
+                    ],
+                    "note": "black plastic frame with acrylic front"
+                }
+            ]
+        },
         "medium": "Ink on paper",
         "relatedWorks": [
             ""
@@ -1517,6 +2000,27 @@
         "seriesSlug": "thoughts",
         "date": "2025",
         "dimensions": "21 x 15 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        21,
+                        15
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        22,
+                        16
+                    ],
+                    "note": "black plastic frame with acrylic front"
+                }
+            ]
+        },
         "medium": "Ink on paper",
         "relatedWorks": [
             ""
