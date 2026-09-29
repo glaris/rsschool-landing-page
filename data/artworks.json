@@ -486,6 +486,87 @@
         }
     },
     {
+        "id": "krampus",
+        "order": 7,
+        "category": "drawings",
+        "title": "Krampus",
+        "series": "Modern Mythology",
+        "seriesSlug": "in-progress",
+        "date": "2025",
+        "dimensions": "40 x 30 cm",
+        "options": {
+            "frame": [
+                {
+                    "value": "sheet",
+                    "label": "Sheet",
+                    "cm": [
+                        40,
+                        30
+                    ]
+                },
+                {
+                    "value": "framed",
+                    "label": "Framed",
+                    "cm": [
+                        40,
+                        30
+                    ],
+                    "note": "Unframed"
+                }
+            ]
+        },
+        "medium": "Ink on paper",
+        "relatedWorks": [
+            ""
+        ],
+        "images": [
+            {
+                "type": "main",
+                "src": "img/drawings/modern-mythology/krampus.webp",
+                "alt": "Original ink drawing titled 'Krampus' by contemporary fine artist Evgeny Kreshchensky."
+            },
+            {
+                "type": "fragment",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "back",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "edge",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "process",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "exhibition",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "press",
+                "src": "",
+                "alt": ""
+            },
+            {
+                "type": "custom",
+                "src": "",
+                "alt": ""
+            }
+        ],
+        "about": {
+            "artwork": "The full conceptual overview of this artwork is coming soon.",
+            "series": "MODERN MYTHOLOGY series: Detailed background on this series is currently in progress."
+        }
+    },
+    {
         "id": "double-trouble",
         "order": 1,
         "category": "drawings",
