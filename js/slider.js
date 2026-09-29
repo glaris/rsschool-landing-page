@@ -11,10 +11,6 @@ function renderSlide(work) {
     let fragmentImage = work.images.find(img => img.type === 'fragment');
     let imgSrc = fragmentImage ? fragmentImage.src : '';
 
-    if (work.id === 'the-cut-drawing') {
-        imgSrc = 'img/drawings/head-garden/the-cut-fragment.webp';
-    }
-
     return `
         <figure class="slider__slide" data-id="${work.id}">
             <img class="slider__image" src="${imgSrc}" alt="${work.title}">
