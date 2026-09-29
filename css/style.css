@@ -8,7 +8,7 @@
     --accent-hover: #9c8059;
     --bg-paper: url('../img/hero-bg-light.webp') no-repeat center / cover;
     --card-shadow: rgba(0, 0, 0, 0.2);
-    --header-h: 100px;
+    --header-h: 60px;
 }
 
 body.dark-theme {
@@ -1081,7 +1081,7 @@ body.dark-theme .card__image:hover {
     top: var(--header-h);
     left: 0;
     width: 100%;
-    height: calc(100vh - var(--header-h));
+    height: 100%;
     background-color: var(--main-bg);
     z-index: 150;
     transform: translateX(100%);
