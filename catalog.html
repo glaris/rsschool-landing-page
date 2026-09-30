@@ -9,6 +9,9 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon" href="https://fav.farm/%F0%9F%96%8B">
     <script src="js/theme.js" defer></script>
+    <script src="js/catalog.js" defer></script>
+    <script src="js/menu.js" defer></script>
+    <script src="js/modal.js" defer></script>
 </head>
 
 <body>
@@ -28,10 +31,23 @@
                             <li class="nav__item"><a href="index.html#contacts" class="nav__link">Contacts</a></li>
                         </ul>
                     </nav>
+                    <nav class="mobile-menu" id="mobileMenu">
+                        <ul class="mobile-menu__list">
+                            <li class="mobile-menu__item"><a href="index.html" class="mobile-menu__link">Home</a></li>
+                            <li class="mobile-menu__item"><a href="index.html#statement"
+                                    class="mobile-menu__link">Statement</a></li>
+                            <li class="mobile-menu__item"><a href="index.html#about" class="mobile-menu__link">About</a>
+                            </li>
+                            <li class="mobile-menu__item"><a href="index.html#contacts"
+                                    class="mobile-menu__link">Contacts</a></li>
+                            <li class="mobile-menu__item"><a href="catalog.html" class="mobile-menu__link">Catalog</a>
+                            </li>
+                        </ul>
+                    </nav>
                     <button type="button" class="theme-toggle">
                         <span class="theme-toggle__text">Dark</span>
                     </button>
-                    <button type="button" class="burger">
+                    <button type="button" class="burger" id="burgerBtn" aria-label="Menu" aria-expanded="false">
                         <span class="burger__line"></span>
                         <span class="burger__line"></span>
                         <span class="burger__line"></span>
@@ -43,161 +59,18 @@
             <section class="catalog">
                 <div class="catalog__container">
                     <h1 class="catalog__title">Artwork Catalog</h1>
-                    <div class="catalog__filter filter">
-                        <button type="button" class="filter__btn">All series</button>
-                        <button type="button" class="filter__btn filter__btn--active">Series: Thoughts</button>
-                        <button type="button" class="filter__btn">Series: Madman's Circus</button>
-                        <button type="button" class="filter__btn">New Series: In Progress</button>
-                    </div>
-                    <div class="catalog__grid">
-                        <article class="card">
-                            <div class="card__image-wrapper"><img src="img/thoughts-afterlife.jpg" alt=""
-                                    class="card__image"></div>
-                            <div class="card__content">
-                                <h2 class="card__title"><span class="card__label">Title:</span> Afterlife</h2>
-                                <p class="card__series"><span class="card__label">Series:</span> Thoughts</p>
-                                <p class="card__date"><span class="card__label">Date:</span> 2025</p>
-                                <p class="card__dimensions"><span class="card__label">Dimensions:</span> 21 x 15 cm</p>
-                                <p class="card__medium"><span class="card__label">Medium:</span> Ink on paper</p>
-                            </div>
-                        </article>
-                        <article class="card">
-                            <div class="card__image-wrapper"><img src="img/thoughts-awakening.jpg" alt=""
-                                    class="card__image"></div>
-                            <div class="card__content">
-                                <h2 class="card__title"><span class="card__label">Title:</span> Awakening</h2>
-                                <p class="card__series"><span class="card__label">Series:</span> Thoughts</p>
-                                <p class="card__date"><span class="card__label">Date:</span> 2025</p>
-                                <p class="card__dimensions"><span class="card__label">Dimensions:</span> 21 x 15 cm</p>
-                                <p class="card__medium"><span class="card__label">Medium:</span> Ink on paper</p>
-                            </div>
-                        </article>
-                        <article class="card">
-                            <div class="card__image-wrapper"><img src="img/thoughts-bounty.jpg" alt=""
-                                    class="card__image"></div>
-                            <div class="card__content">
-                                <h2 class="card__title"><span class="card__label">Title:</span> Bounty</h2>
-                                <p class="card__series"><span class="card__label">Series:</span> Thoughts</p>
-                                <p class="card__date"><span class="card__label">Date:</span> 2025</p>
-                                <p class="card__dimensions"><span class="card__label">Dimensions:</span> 21 x 15 cm</p>
-                                <p class="card__medium"><span class="card__label">Medium:</span> Ink on paper</p>
-                            </div>
-                        </article>
-                        <article class="card">
-                            <div class="card__image-wrapper"><img src="img/thoughts-crossroads.jpg" alt=""
-                                    class="card__image"></div>
-                            <div class="card__content">
-                                <h2 class="card__title"><span class="card__label">Title:</span> Crossroads</h2>
-                                <p class="card__series"><span class="card__label">Series:</span> Thoughts</p>
-                                <p class="card__date"><span class="card__label">Date:</span> 2025</p>
-                                <p class="card__dimensions"><span class="card__label">Dimensions:</span> 21 x 15 cm</p>
-                                <p class="card__medium"><span class="card__label">Medium:</span> Ink on paper</p>
-                            </div>
-                        </article>
-                        <article class="card">
-                            <div class="card__image-wrapper"><img src="img/thoughts-deep.jpg" alt=""
-                                    class="card__image"></div>
-                            <div class="card__content">
-                                <h2 class="card__title"><span class="card__label">Title:</span> Deep</h2>
-                                <p class="card__series"><span class="card__label">Series:</span> Thoughts</p>
-                                <p class="card__date"><span class="card__label">Date:</span> 2025</p>
-                                <p class="card__dimensions"><span class="card__label">Dimensions:</span> 21 x 15 cm</p>
-                                <p class="card__medium"><span class="card__label">Medium:</span> Ink on paper</p>
-                            </div>
-                        </article>
-                        <article class="card">
-                            <div class="card__image-wrapper"><img src="img/thoughts-hidden.jpg" alt=""
-                                    class="card__image"></div>
-                            <div class="card__content">
-                                <h2 class="card__title"><span class="card__label">Title:</span> Hidden</h2>
-                                <p class="card__series"><span class="card__label">Series:</span> Thoughts</p>
-                                <p class="card__date"><span class="card__label">Date:</span> 2025</p>
-                                <p class="card__dimensions"><span class="card__label">Dimensions:</span> 21 x 15 cm</p>
-                                <p class="card__medium"><span class="card__label">Medium:</span> Ink on paper</p>
-                            </div>
-                        </article>
-                        <article class="card">
-                            <div class="card__image-wrapper"><img src="img/thoughts-hideaway.jpg" alt=""
-                                    class="card__image"></div>
-                            <div class="card__content">
-                                <h2 class="card__title"><span class="card__label">Title:</span> Hideaway</h2>
-                                <p class="card__series"><span class="card__label">Series:</span> Thoughts</p>
-                                <p class="card__date"><span class="card__label">Date:</span> 2025</p>
-                                <p class="card__dimensions"><span class="card__label">Dimensions:</span> 21 x 15 cm</p>
-                                <p class="card__medium"><span class="card__label">Medium:</span> Ink on paper</p>
-                            </div>
-                        </article>
-                        <article class="card">
-                            <div class="card__image-wrapper"><img src="img/thoughts-hike.jpg" alt=""
-                                    class="card__image"></div>
-                            <div class="card__content">
-                                <h2 class="card__title"><span class="card__label">Title:</span> Hike</h2>
-                                <p class="card__series"><span class="card__label">Series:</span> Thoughts</p>
-                                <p class="card__date"><span class="card__label">Date:</span> 2025</p>
-                                <p class="card__dimensions"><span class="card__label">Dimensions:</span> 21 x 15 cm</p>
-                                <p class="card__medium"><span class="card__label">Medium:</span> Ink on paper</p>
-                            </div>
-                        </article>
-                        <article class="card">
-                            <div class="card__image-wrapper"><img src="img/thoughts-memory.jpg" alt=""
-                                    class="card__image"></div>
-                            <div class="card__content">
-                                <h2 class="card__title"><span class="card__label">Title:</span> Memory</h2>
-                                <p class="card__series"><span class="card__label">Series:</span> Thoughts</p>
-                                <p class="card__date"><span class="card__label">Date:</span> 2025</p>
-                                <p class="card__dimensions"><span class="card__label">Dimensions:</span> 21 x 15 cm</p>
-                                <p class="card__medium"><span class="card__label">Medium:</span> Ink on paper</p>
-                            </div>
-                        </article>
-                        <article class="card">
-                            <div class="card__image-wrapper"><img src="img/thoughts-ruined.jpg" alt=""
-                                    class="card__image"></div>
-                            <div class="card__content">
-                                <h2 class="card__title"><span class="card__label">Title:</span> Ruined</h2>
-                                <p class="card__series"><span class="card__label">Series:</span> Thoughts</p>
-                                <p class="card__date"><span class="card__label">Date:</span> 2025</p>
-                                <p class="card__dimensions"><span class="card__label">Dimensions:</span> 21 x 15 cm</p>
-                                <p class="card__medium"><span class="card__label">Medium:</span> Ink on paper</p>
-                            </div>
-                        </article>
-                        <article class="card">
-                            <div class="card__image-wrapper"><img src="img/thoughts-saved.jpg" alt=""
-                                    class="card__image"></div>
-                            <div class="card__content">
-                                <h2 class="card__title"><span class="card__label">Title:</span> Saved</h2>
-                                <p class="card__series"><span class="card__label">Series:</span> Thoughts</p>
-                                <p class="card__date"><span class="card__label">Date:</span> 2025</p>
-                                <p class="card__dimensions"><span class="card__label">Dimensions:</span> 21 x 15 cm</p>
-                                <p class="card__medium"><span class="card__label">Medium:</span> Ink on paper</p>
-                            </div>
-                        </article>
-                        <article class="card">
-                            <div class="card__image-wrapper"><img src="img/thoughts-scouts.jpg" alt=""
-                                    class="card__image"></div>
-                            <div class="card__content">
-                                <h2 class="card__title"><span class="card__label">Title:</span> Scouts</h2>
-                                <p class="card__series"><span class="card__label">Series:</span> Thoughts</p>
-                                <p class="card__date"><span class="card__label">Date:</span> 2025</p>
-                                <p class="card__dimensions"><span class="card__label">Dimensions:</span> 21 x 15 cm</p>
-                                <p class="card__medium"><span class="card__label">Medium:</span> Ink on paper</p>
-                            </div>
-                        </article>
-                        <article class="card">
-                            <div class="card__image-wrapper"><img src="img/thoughts-windy.jpg" alt=""
-                                    class="card__image"></div>
-                            <div class="card__content">
-                                <h2 class="card__title"><span class="card__label">Title:</span> Windy</h2>
-                                <p class="card__series"><span class="card__label">Series:</span> Thoughts</p>
-                                <p class="card__date"><span class="card__label">Date:</span> 2025</p>
-                                <p class="card__dimensions"><span class="card__label">Dimensions:</span> 21 x 15 cm</p>
-                                <p class="card__medium"><span class="card__label">Medium:</span> Ink on paper</p>
-                            </div>
-                        </article>
-                    </div>
+                    <div class="catalog__filter filter"></div>
+                    <div class="catalog__grid"></div>
                     <button type="button" class="catalog__more-btn">Show More</button>
                 </div>
-
             </section>
+            <div class="modal" id="artworkModal">
+                <div class="modal__overlay"></div>
+                <div class="modal__window">
+                    <button type="button" class="modal__close" aria-label="Close">×</button>
+                    <div class="modal__content"></div>
+                </div>
+            </div>
         </main>
         <footer class="footer">
             <div class="footer__container">

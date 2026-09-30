@@ -9,6 +9,8 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon" href="https://fav.farm/%F0%9F%96%8B">
     <script src="js/theme.js" defer></script>
+    <script src="js/slider.js" defer></script>
+    <script src="js/menu.js" defer></script>
 </head>
 
 <body>
@@ -28,10 +30,23 @@
                             <li class="nav__item"><a href="#contacts" class="nav__link">Contacts</a></li>
                         </ul>
                     </nav>
+                    <nav class="mobile-menu" id="mobileMenu">
+                        <ul class="mobile-menu__list">
+                            <li class="mobile-menu__item"><a href="index.html" class="mobile-menu__link">Home</a></li>
+                            <li class="mobile-menu__item"><a href="#statement" class="mobile-menu__link">Statement</a>
+                            </li>
+                            <li class="mobile-menu__item"><a href="#about" class="mobile-menu__link">About</a>
+                            </li>
+                            <li class="mobile-menu__item"><a href="#contacts" class="mobile-menu__link">Contacts</a>
+                            </li>
+                            <li class="mobile-menu__item"><a href="catalog.html" class="mobile-menu__link">Catalog</a>
+                            </li>
+                        </ul>
+                    </nav>
                     <button type="button" class="theme-toggle">
                         <span class="theme-toggle__text">Dark</span>
                     </button>
-                    <button type="button" class="burger">
+                    <button type="button" class="burger" id="burgerBtn" aria-label="Menu" aria-expanded="false">
                         <span class="burger__line"></span>
                         <span class="burger__line"></span>
                         <span class="burger__line"></span>
@@ -50,11 +65,8 @@
             <div class="slider">
                 <div class="slider__container">
                     <button type="button" class="slider__arrow slider__arrow--prev">Left</button>
-                    <div class="slider__track">
-                        <figure class="slider__slide">
-                            <img class="slider__image" src="img/kreshchensky-the-cut.jpg"
-                                alt="Evgeny Kreshchensky. The Cut, 2026. Ink on paper">
-                        </figure>
+                    <div class="slider__window">
+                        <div class="slider__track"></div>
                     </div>
                     <button type="button" class="slider__arrow slider__arrow--next">Right</button>
                 </div>
@@ -79,7 +91,7 @@
                             this intricate method to capture human forms, deep emotions, and subtle moods on paper.
                         </p>
                         <div class="about__image-wrapper">
-                            <img src="img/artist-hand-and-drawing.jpg" alt="Artist's hand and his ink drawing"
+                            <img src="img/artist-hand-and-drawing.webp" alt="Artist's hand and his ink drawing"
                                 class="about__image">
                         </div>
                     </div>
